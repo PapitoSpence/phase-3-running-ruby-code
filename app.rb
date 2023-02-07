@@ -22,7 +22,7 @@ end
 
 puts add(1,3) + add(2,2)
 
-puts "Hello world!"
+puts "Hello World!"
 
 print "Pass this test, please."
 
